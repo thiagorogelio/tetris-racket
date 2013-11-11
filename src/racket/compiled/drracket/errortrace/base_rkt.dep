@@ -1,0 +1,1 @@
+("5.3.4" ("babf2e1fd533bbc84be1575aeed496ab59560d6c" . "adb70cf8d9031c69d1b0a4b307c486e90c61ea8d") #"/home/maxx/tetris-racket/src/racket/tetra-tipos.rkt" (collects #"2htdp" #"image.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"lang" #"reader.rkt"))

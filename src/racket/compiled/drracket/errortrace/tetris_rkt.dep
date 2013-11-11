@@ -1,0 +1,1 @@
+("5.3.4" ("65f343122118bf6b6cd11fb85a3ae3beee2add10" . "ee9c2a2e9a3dfd691b1d032d1fe3e9ecebc90841") (collects #"2htdp" #"universe.rkt") (collects #"2htdp" #"image.rkt") (collects #"racket" #"main.rkt") #"/home/maxx/tetris-racket/src/racket/base.rkt" (collects #"racket" #"lang" #"reader.rkt"))
